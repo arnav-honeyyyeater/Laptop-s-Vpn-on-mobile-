@@ -154,7 +154,7 @@ On your phone:
 <summary><b>2. Some apps on mobile don't route through proxy</b></summary>
 
 - Standard web browsers (Chrome, Safari, Firefox), YouTube, and most apps respect the system Wi-Fi proxy settings.
-- A few apps that ignore system proxy settings or use non-HTTP/HTTPS protocols (like raw UDP or proprietary sockets) will not route through an HTTP proxy.
+- A few apps that ignore system proxy settings or use non-HTTP/HTTPS protocols (like raw UDP or proprietary sockets, Like some games) will not route through an HTTP proxy.
 </details>
 
 <details>
